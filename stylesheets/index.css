@@ -1,0 +1,48 @@
+html{
+margin:0;
+}
+body{
+margin:0;
+}
+#header{
+margin:0;
+display:block;
+position:fixed;
+width:100%;
+z-index:100
+}
+#header #header-container{
+margin:0 auto;
+width:600px;
+background-color:black;
+color:white;
+display:block;
+}
+
+#header #header-container ul{
+margin:0 auto;
+}
+
+#header #header-container ul a li{
+display:inline-block;
+padding:0px 20px 0px 20px;
+font-size:0.9em;
+color:white;
+}
+
+#header #header-container ul a{
+text-decoration:none;
+color:white;
+}
+#header #header-container ul a :hover{
+background-color:purple;
+}
+
+.slides-navigation a.next img{
+width:50px;
+height:50px;
+}
+.slides-navigation a.prev img{
+width:50px;
+height:50px;
+}
