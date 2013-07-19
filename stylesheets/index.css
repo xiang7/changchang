@@ -13,7 +13,7 @@ z-index:100
 }
 #header #header-container{
 margin:0 auto;
-width:700px;
+width:680px;
 height:28px;
 background-color:black;
 color:white;
@@ -21,15 +21,20 @@ display:block;
 }
 
 #header #header-container ul{
-margin:0 auto;
+margin-top:0;
+margin-left:100px;
 display:block;
+height:28px;
 }
 
 #header #header-container ul a li{
 display:inline-block;
-padding:0px 20px 0px 20px;
+padding-top:4px;
+padding-right:20px;
+padding-left:20px;
 font-size:0.9em;
 color:white;
+height:28px;
 }
 
 #header #header-container ul a{
