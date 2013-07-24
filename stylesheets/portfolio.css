@@ -86,3 +86,50 @@ height:50px;
 width:50px;
 height:50px;
 }
+
+#project{
+width:100%;
+position:absolute;
+margin-top:35px;
+}
+#project p{
+width:800px;
+margin:auto;
+color:#fa0b8c;
+font-size:2em;
+}
+
+#gallery{
+position:absolute;
+display:block;
+margin-top:150px;
+width:100%;
+}
+
+#gallery .gallery-line{
+display:block;
+width:100%;
+margin-top:10px;
+}
+
+#gallery .gallery-line ul{
+padding:auto;
+margin:auto;
+text-align:center;
+}
+
+#gallery .gallery-line ul li{
+display:inline;
+}
+#gallery .gallery-line ul li img{
+border:1px solid black;
+}
+#gallery .gallery-line ul li:first-child{
+margin-right:20px;
+}
+
+#gallery .gallery-line ul li:last-child{
+margin-left:20px;
+}
+
+
