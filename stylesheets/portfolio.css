@@ -78,6 +78,7 @@ border-left:1px solid #fa0b8c;
 border-right:1px solid #fa0b8c;
 border-bottom:6px solid #fa0b8c;
 }
+
 .slides-navigation a.next img{
 width:50px;
 height:50px;
@@ -110,26 +111,30 @@ width:100%;
 display:block;
 width:100%;
 margin-top:10px;
-}
-
-#gallery .gallery-line ul{
-padding:auto;
-margin:auto;
 text-align:center;
+padding:auto;
+margin-bottom:40px;
 }
 
-#gallery .gallery-line ul li{
-display:inline;
-}
-#gallery .gallery-line ul li img{
-border:1px solid black;
-}
-#gallery .gallery-line ul li:first-child{
+
+#gallery .gallery-line div:first-child{
 margin-right:20px;
 }
 
-#gallery .gallery-line ul li:last-child{
+#gallery .gallery-line div:last-child{
 margin-left:20px;
 }
 
+#gallery .gallery-line div{
+display:inline-block;
+}
 
+#gallery .gallery-line div p{
+margin:0;
+}
+
+#gallery .gallery-line div img{
+border:1px solid black;
+margin:0;
+float:left;
+}
