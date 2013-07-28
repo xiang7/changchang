@@ -1,0 +1,41 @@
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Changchang Liu</title>
+  <link rel="stylesheet" href="stylesheets/portfolio.css">
+  <link rel="stylesheet" href="stylesheets/dropdown.css">
+</head>
+<body>
+  <div id="header">
+    <div id="header-container">
+        <a id="logo" href="/"><img src="image/logo.jpg" height="28" width="100"></a>
+      <ul>
+        <li><a class="headera" href="portfolio.html">PORTFOLIO</a></li>
+        <li><a class="headerb" href="me.shtml">ME</a></li>
+        <li><a class="headerb" href="contact.shtml">CONTACT</a></li>
+      </ul>
+    </div>
+  </div>
+  <div id="project">
+	<p>Projects</p>
+  </div>
+  <!--#include virtual="/dropdown.shtml" -->
+  <div id="gallery">
+    <div class="gallery-line">
+        <div><img src="image/1.jpg" width="355" height="222" /><p>The description.</p></div>
+        <div><img src="image/2.jpg" width="355" height="222" /><p>The description</p></div>
+        <div><img src="image/3.jpg" width="355" height="222" /><p>The description</p></div>
+    </div>
+    <div class="gallery-line">
+        <div><img src="image/4.jpg" width="355" height="222" /><p>The description</p></div>
+        <div><img src="image/5.jpg" width="355" height="222" /><p>The description</p></div>
+        <div><img src="image/6.jpg" width="355" height="222" /><p>The description</p></div>
+    </div>
+    <div class="gallery-line">
+       <div><img src="image/7.jpg" width="355" height="222" /><p>The description</p></div>
+       <div><img src="image/2.jpg" width="355" height="222" /><p>The description</p></div>
+       <div><img src="image/3.jpg" width="355" height="222" /><p>The description</p></div>
+    </div>
+  </div>
+</body>
+</html>

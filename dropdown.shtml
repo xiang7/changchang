@@ -1,0 +1,32 @@
+<div id="dropdown">
+<ul id="nav">
+    <li>
+        <a href="#">Public</a>
+    </li>
+
+    <li>
+        <a href="#">Private</a>
+        <ul>
+            <li><a href="#">Project 1</a></li>
+            <li><a href="#">Project 2</a></li>
+        </ul>
+    </li>
+    <li>
+        <a href="#">Infographics</a>
+
+        <ul>
+            <li><a href="#">Project 2</a></li>
+            <li><a href="#">Project 1</a></li>
+        </ul>
+
+    </li>
+    <li>
+        <a href="#">Fine Art</a>
+        <ul>
+            <li><a href="#">Project 1</a></li>
+
+            <li><a href="#">Project 2</a></li>
+        </ul>
+    </li>
+</ul>
+</div>
