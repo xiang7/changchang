@@ -19,14 +19,14 @@
   <div id="content">
     <div id="content-container">
       <div id="me-div">
-	<h2><a href="">Me</a></h2>
+	<p><a href="">Me</a></p>
       </div>
       <div id="img-div">
-        <img src="" />
+        <img src="image/me_photo.jpg" height="304" width="239"/>
       </div>
       <div id="link-div">
          <ul>
-	    <li><a href="">EDUCATION</a></li>
+	    <li><a href="education.shtml">EDUCATION</a></li>
 	    <li><a href="">EXPERIENCE</a></li>
             <li><a href="">AWARDS</a></li>
             <li><a href="">WHAT ELSE</a></li>

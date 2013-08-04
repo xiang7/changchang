@@ -16,6 +16,8 @@
       </ul>
     </div>
   </div>
+  <div id="content">
+  <div id="content-container">
   <div id="project">
 	<p>Projects</p>
   </div>
@@ -37,5 +39,7 @@
        <div><img src="image/3.jpg" width="355" height="222" /><p>The description</p></div>
     </div>
   </div>
+</div>
+</div>
 </body>
 </html>
