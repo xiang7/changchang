@@ -88,16 +88,49 @@ width:50px;
 height:50px;
 }
 
-#project{
+#content{
 width:100%;
 position:absolute;
-margin-top:35px;
+padding-top:20px;
 }
-#project p{
-width:800px;
+#content-container{
+width:600px;
+margin:auto;
+margin-top:30px;
+}
+
+#content #content-container .email{
+margin-top:20px;
+border:1px solid black;
+color:#fa0b8c;
+width:150px;
+background-color:black;
+text-align:center;
+font-size:0.8em;
+padding-top:3px;
+padding-bottom:3px;
+font-family:Arial,serif;
+}
+
+#content #content-container .email_text{
+margin-top:30px;
+margin-bottom:30px;
+}
+#content #content-container .email_text a{
+text-decoration:none;
+color:black;
+}
+#content #content-container .email_text a:hover{
+color:#fa0b8c;
+}
+
+#contact{
+}
+#contact p{
 margin:auto;
 color:#fa0b8c;
 font-size:2em;
+font-family:Arial,serif;
 }
 
 #gallery{

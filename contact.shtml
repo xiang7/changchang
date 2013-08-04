@@ -16,5 +16,21 @@
       </ul>
     </div>
   </div>
+
+  <div id="content">
+    <div id="content-container">
+      <div id="contact">
+        <p>Contact</p>
+      </div>
+      <div class="email">
+        Email
+      </div>
+      <div class="email_text"><a href="mailto:cliu74@illinois.edu">cliu74@illinois.edu</a></div>
+      <div class="email">
+        Social Media
+      </div>
+      <div class="email_text"><a href="http://www.linkedin.com/pub/changchang-liu/65/472/5b2" target="_blank">LinkedIn</a></div>
+    </div>
+  </div>
 </body>
 </html>
