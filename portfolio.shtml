@@ -24,12 +24,13 @@
   <!--#include virtual="/dropdown.shtml" -->
   <div id="gallery">
     <div class="gallery-line">
-        <div><img src="image/1.jpg" width="355" height="222" /><p>The description.</p></div>
-        <div><img src="image/2.jpg" width="355" height="222" /><p>The description</p></div>
+        <div>
+         <a href="main/wabash.html"> <img src="image/1.jpg" width="355" height="222" /></a><p><b>Stateline</b><br/>Portrayals of the Lower Wabash River Landscape</p></div>
+        <div><a href="main/exfrustructure.html"><img src="image/2.jpg" width="355" height="222" /></a><p><b>"Exfrucstructure"</b></br>Studio Project - The Creative Public Park</p></div>
         <div><img src="image/3.jpg" width="355" height="222" /><p>The description</p></div>
     </div>
     <div class="gallery-line">
-        <div><img src="image/4.jpg" width="355" height="222" /><p>The description</p></div>
+        <div><a href="main/infographics.html"><img src="image/4.jpg" width="355" height="222" /></a><p><b>Infographics</b></br>The Visualization of Data and Information</p></div>
         <div><img src="image/5.jpg" width="355" height="222" /><p>The description</p></div>
         <div><img src="image/6.jpg" width="355" height="222" /><p>The description</p></div>
     </div>

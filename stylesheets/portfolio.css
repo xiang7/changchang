@@ -139,10 +139,12 @@ display:inline-block;
 
 #gallery .gallery-line div p{
 margin:0;
+font-family: Arial;
+font-size:0.9em;
 }
 
 #gallery .gallery-line div img{
-border:1px solid black;
 margin:0;
-float:left;
+border:1px solid black;
 }
+
