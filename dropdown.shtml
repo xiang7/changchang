@@ -2,21 +2,22 @@
 <ul id="nav">
     <li>
         <a href="#">Public</a>
+        <ul>
+        <li><a href="main/wabash.html">Stateline</a></li>
+        <li><a href="main/exfrustructure.html">Exfrustructure</a></li>
+        </ul>
     </li>
 
     <li>
         <a href="#">Private</a>
         <ul>
-            <li><a href="#">Project 1</a></li>
-            <li><a href="#">Project 2</a></li>
+            <li><a href="#">Chalet Garden</a></li>
         </ul>
     </li>
     <li>
-        <a href="#">Infographics</a>
+        <a href="main/infographics.html">Infographics</a>
 
         <ul>
-            <li><a href="#">Project 2</a></li>
-            <li><a href="#">Project 1</a></li>
         </ul>
 
     </li>

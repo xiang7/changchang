@@ -27,8 +27,8 @@
       <div id="link-div">
          <ul>
 	    <li><a href="education.shtml">EDUCATION</a></li>
-	    <li><a href="">EXPERIENCE</a></li>
-            <li><a href="">AWARDS</a></li>
+	    <li><a href="experience.shtml">EXPERIENCE</a></li>
+            <li><a href="awards.shtml">AWARDS</a></li>
             <li><a href="">WHAT ELSE</a></li>
          </ul>
       </div>
