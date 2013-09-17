@@ -31,11 +31,11 @@
     </div>
     <div class="gallery-line">
         <div><a href="main/infographics.html"><img src="image/4.jpg" width="355" height="222" /></a><p><b>Infographics</b></br>The Visualization of Data and Information</p></div>
-        <div><img src="image/5.jpg" width="355" height="222" /><p>The description</p></div>
-        <div><img src="image/6.jpg" width="355" height="222" /><p>The description</p></div>
+        <div><a href="main/handdrawing.html"><img src="image/5.jpg" width="355" height="222" /></a><p><b>Hand Drawing</b></br>Art Work by Me</p></div>
+        <div><a href="main/bench.html"><img src="image/6.jpg" width="355" height="222" /></a><p><b>Inovative Landscape Product</b></br>Public Bench + Locker + Donation Box</p></div>
     </div>
     <div class="gallery-line">
-       <div><img src="image/7.jpg" width="355" height="222" /><p>The description</p></div>
+       <div><a href="main/allerton.html"><img src="image/7.jpg" width="355" height="222" /></a><p><b>Diversified Farm</b></br>From Allerton Farm to Natural Education Center</p></div>
        <div><img src="image/2.jpg" width="355" height="222" /><p>The description</p></div>
        <div><img src="image/3.jpg" width="355" height="222" /><p>The description</p></div>
     </div>

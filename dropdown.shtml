@@ -22,11 +22,11 @@
 
     </li>
     <li>
-        <a href="#">Fine Art</a>
+        <a href="#">Hand Work</a>
         <ul>
-            <li><a href="#">Project 1</a></li>
+            <li><a href="main/handdrawing.html">Hand Drawing</a></li>
 
-            <li><a href="#">Project 2</a></li>
+            <li><a href="#">Hand Crafts</a></li>
         </ul>
     </li>
 </ul>
