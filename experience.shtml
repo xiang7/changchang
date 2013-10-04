@@ -1,0 +1,30 @@
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Changchang Liu</title>
+  <link rel="stylesheet" href="stylesheets/experience.css">
+  <link rel="stylesheet" href="stylesheets/dropdown.css">
+</head>
+<body>
+  <div id="header">
+    <div id="header-container">
+        <a id="logo" href="/"><img src="image/logo.jpg" height="28" width="100"></a>
+      <ul>
+        <li><a class="headera" href="portfolio.shtml">PORTFOLIO</a></li>
+        <li><a class="headerb" href="me.shtml">ME</a></li>
+        <li><a class="headerb" href="contact.shtml">CONTACT</a></li>
+      </ul>
+    </div>
+  </div>
+  <div id="content">
+    <div id="content-container">
+      <div id="me-div">
+	<p><a href="me.shtml">Me</a> >> Experience</p>
+      </div>
+    </div>
+  </div>
+      <div class="img-div">
+        <img src="image/EXPERIENCE.jpg" height="725" width="1280"/>
+      </div>
+</body>
+</html>
