@@ -1,0 +1,104 @@
+/**************************************
+jQuery Open Carousel
+Justin McCandless
+justinmccandless.com
+
+Demo CSS file
+***************************************/
+
+body
+{
+	background: #f1f1f1;
+        margin: 0;
+}
+
+#header{
+margin:0;
+display:block;
+position:fixed;
+width:100%;
+z-index:100
+}
+#header #header-container{
+margin:0 auto;
+width:600px;
+height:28px;
+color:white;
+display:block;
+}
+#header #header-container ul{
+float:left;
+background-color:black;
+margin:0 auto;
+width:auto;
+padding:0;
+display:block;
+height:28px;
+}
+#header #header-container ul li {
+display:inline-block;
+border-left:1px solid black;
+border-right:1px solid black;
+}
+#header #header-container ul li a{
+display:inline-block;
+margin:0;
+padding-top:2px;
+padding-bottom:0px;
+width:160px;
+text-align:center;
+font-size:0.8em;
+text-decoration:none;
+color:white;
+height:20px;
+font-family:Arial,serif;
+text-decoration:none;
+}
+#header #header-container #logo{
+display:block;
+float:left;
+}
+#header #header-container ul li:hover{
+border-left:1px solid #fa0b8c;
+border-right:1px solid #fa0b8c;
+border-bottom:6px solid #fa0b8c;
+}
+
+
+
+#content {
+    width: 100%;
+    margin: 0;
+}
+
+/* Second Example: Photos */
+
+    .example_photos .ocarousel_window {
+        background: #202020;
+        border: 0px #202020 solid;
+/*        border-radius: 12px;*/
+        height: 586px;
+        width: 100%;
+    }
+        .example_photos .ocarousel_window_slides img {
+            padding: 0px 5px 0px 0px;
+        }
+        .example_photos_thumbs {
+            text-align: center;
+        }
+        .example_photos_thumbs img {
+            border-top: 3px #ffffff solid;
+            border-left: 3px #ffffff solid;
+            border-right: 3px #ffffff solid;
+            border-bottom: 10px #ffffff solid;
+            box-shadow: #202020 4px 4px 4px;
+        }
+#description{
+text-align:left;
+font-family:Arial;
+top:586px;
+left:30%;
+width:40%;
+position:absolute;
+}
+        
