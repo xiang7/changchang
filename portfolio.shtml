@@ -27,7 +27,7 @@
         <div>
          <a href="main/wabash.html"> <img src="image/1.jpg" width="355" height="222" /></a><p><b>Stateline</b><br/>Portrayals of the Lower Wabash River Landscape</p></div>
         <div><a href="main/exfrustructure.html"><img src="image/2.jpg" width="355" height="222" /></a><p><b>"Exfrucstructure"</b></br>Studio Project - The Creative Public Park</p></div>
-        <div><a href="main/chalet.html"><img src="image/3.jpg" width="355" height="222" /></a><p><b>Chalet Private Garden</b></br>The Design of Private Landscape</p></div>
+       <div><a href="main/thesis.html"><img src="image/cover.jpg" width="355" height="222" /></a><p><b>Master's Thesis</b></br>An Urbanism Theory For Chengdu</p></div>
     </div>
     <div class="gallery-line">
         <div><a href="main/infographics.html"><img src="image/4.jpg" width="355" height="222" /></a><p><b>Infographics</b></br>The Visualization of Data and Information</p></div>
@@ -36,8 +36,8 @@
     </div>
     <div class="gallery-line">
        <div><a href="main/allerton.html"><img src="image/7.jpg" width="355" height="222" /></a><p><b>Diversified Farm</b></br>From Allerton Farm to Natural Education Center</p></div>
-       <div><img src="image/2.jpg" width="355" height="222" /><p>The description</p></div>
-       <div><img src="image/3.jpg" width="355" height="222" /><p>The description</p></div>
+        <div><a href="main/chalet.html"><img src="image/3.jpg" width="355" height="222" /></a><p><b>Chalet Private Garden</b></br>The Design of Private Landscape</p></div>
+       <div><a href="main/pal.html"><img src="image/pal.jpg" width="355" height="222" /></a><p><b>P.A.L</b></br>Cooperation of P.A.L and Allerton</p></div>
     </div>
   </div>
 </div>
