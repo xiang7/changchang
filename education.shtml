@@ -1,0 +1,54 @@
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Changchang Liu</title>
+  <link rel="stylesheet" href="stylesheets/education.css">
+  <link rel="stylesheet" href="stylesheets/dropdown.css">
+</head>
+<body>
+  <div id="header">
+    <div id="header-container">
+        <a id="logo" href="/"><img src="image/logo.jpg" height="28" width="100"></a>
+      <ul>
+        <li><a class="headera" href="portfolio.shtml">PORTFOLIO</a></li>
+        <li><a class="headerb" href="me.shtml">ME</a></li>
+        <li><a class="headerb" href="contact.shtml">CONTACT</a></li>
+      </ul>
+    </div>
+  </div>
+  <div id="content">
+    <div id="content-container">
+      <div id="me-div">
+	<p><a href="me.shtml">Me</a> >> Education</p>
+      </div>
+      <div class="img-div">
+        <div class="img-div-img">
+        <a href="http://illinois.edu" target="_blank"><img src="image/UILogoCL2c.gif" height="92" width="71"/></a></div>
+	<div class="img-div-p">
+	<p><a href="http://illinois.edu" target="_blank"><b>University of Illinois at Urbana-Champaign</a></b></br>
+           <a href="http://landarch.illinois.edu" target="_blank">Master of Landscape Architecture</a></br>
+           2012-2014(Expected)</br>
+	   GPA 3.71</p></div>
+      </div>
+      <div class="img-div">
+        <div class="img-div-img">
+        <a href="http://english.sicau.edu.cn/" target="_blank"><img src="image/sau_logo.jpeg" height="92" width="92"/></a></div>
+	<div class="img-div-p">
+	<p><b><a href="http://english.sicau.edu.cn/" target="_blank">Sichuan Agricultural University</a></b></br>
+           <a href="http://fjylxy.sicau.edu.cn/" target="_blank">Bachelor of Landscape Architecture</a></br>
+           2008-2012</br>
+	   GPA 3.64</p>
+	</div>
+      </div>
+      <div class="img-div">
+        <div class="img-div-img">
+        <a href="http://www.cdqz.net/" target="_blank"><img src="image/no7_logo.jpg" height="80" width="125"/></a></div>
+	<div class="img-div-p">
+	<p><b><a href="http://www.cdqz.net/" target="_blank">High School No. 7 Chengdu (Top 13 in China)</a></b></br>
+           Student in Science</br>
+           2005-2008</p></div>
+      </div>
+    </div>
+  </div>
+</body>
+</html>

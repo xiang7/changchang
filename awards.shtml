@@ -1,0 +1,42 @@
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Changchang Liu</title>
+  <link rel="stylesheet" href="stylesheets/education.css">
+  <link rel="stylesheet" href="stylesheets/dropdown.css">
+</head>
+<body>
+  <div id="header">
+    <div id="header-container">
+        <a id="logo" href="/"><img src="image/logo.jpg" height="28" width="100"></a>
+      <ul>
+        <li><a class="headera" href="portfolio.shtml">PORTFOLIO</a></li>
+        <li><a class="headerb" href="me.shtml">ME</a></li>
+        <li><a class="headerb" href="contact.shtml">CONTACT</a></li>
+      </ul>
+    </div>
+  </div>
+  <div id="content">
+    <div id="content-container">
+      <div id="me-div">
+	<p><a href="me.shtml">Me</a> >> Selected Awards</p>
+      </div>
+      <div class="img-div">
+        <div class="img-div-img">
+        <a href="http://illinois.edu" target="_blank"><img src="image/UILogoCL2c.gif" height="92" width="71"/></a></div>
+	<div class="img-div-p">
+	<p><a href="http://www.landarch.illinois.edu/portfolio/newsletter/2013/portfolio-saski day awards.html" target="_blank"><b>Sasaki Award - Level G1</a></b></br>
+           <a href="http://en.wikipedia.org/wiki/Hideo_Sasaki" target="_blank">Hideo Sasaki was an influential American landscape architect, who was affliated with University of Illinois at Urbana-Champagin...</a>
+	   </p></div>
+      </div>
+      <div class="img-div">
+        <div class="img-div-img">
+        <a href="http://illinois.edu" target="_blank"><img src="image/UILogoCL2c.gif" height="92" width="71"/></a></div>
+	<div class="img-div-p">
+	<p><b><a href="http://caseytrees.org/about/treefarm/" target="_blank">Casey Tree Farm</a> Competetion - Second Place (Group Work)</b></br></br></br>
+	   </p></div>
+      </div>
+    </div>
+  </div>
+</body>
+</html>
