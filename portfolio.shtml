@@ -10,7 +10,7 @@
     <div id="header-container">
         <a id="logo" href="/"><img src="image/logo.jpg" height="28" width="100"></a>
       <ul>
-        <li><a class="headera" href="portfolio.html">PORTFOLIO</a></li>
+        <li><a class="headera" href="portfolio.shtml">PORTFOLIO</a></li>
         <li><a class="headerb" href="me.shtml">ME</a></li>
         <li><a class="headerb" href="contact.shtml">CONTACT</a></li>
       </ul>
@@ -39,6 +39,13 @@
         <div><a href="main/chalet.html"><img src="image/3.jpg" width="355" height="222" /></a><p><b>Chalet Private Garden</b></br>The Design of Private Landscape</p></div>
        <div><a href="main/pal.html"><img src="image/pal.jpg" width="355" height="222" /></a><p><b>P.A.L</b></br>Cooperation of P.A.L and Allerton</p></div>
     </div>
+
+    <div class="gallery-line">
+       <div><a href="main/resiliency.html"><img src="image/10.jpg" width="355" height="222" /></a><p><b>Huo Shui Park</b></br>Landscape Resiliency Case Study</p></div>
+        <div><a href="main/residential.html"><img src="image/11.jpg" width="355" height="222" /></a><p><b>The Big Residential</b></br>Planning and Design of Real Residential Projects in China</p></div>
+       <div><a href="main/pal.html"><img src="image/pal.jpg" width="355" height="222" /></a><p><b>P.A.L</b></br>Cooperation of P.A.L and Allerton</p></div>
+    </div>
+
   </div>
 </div>
 </div>
