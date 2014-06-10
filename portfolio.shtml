@@ -32,7 +32,7 @@
     <div class="gallery-line">
         <div><a href="main/infographics.html"><img src="image/4.jpg" width="355" height="222" /></a><p><b>Infographics</b></br>The Visualization of Data and Information</p></div>
         <div><a href="main/handdrawing.html"><img src="image/5.jpg" width="355" height="222" /></a><p><b>Hand Drawing</b></br>Art Work by Me</p></div>
-        <div><a href="main/bench.html"><img src="image/6.jpg" width="355" height="222" /></a><p><b>Inovative Landscape Product</b></br>Public Bench + Locker + Donation Box</p></div>
+       <div><a href="main/contradiction.html"><img src="image/contradiction/cover.jpg" width="355" height="222" /></a><p><b>Contradiction | Food Supply</b></br>Elevating Food Contradiction Between Urban and Rural</p></div>
     </div>
     <div class="gallery-line">
        <div><a href="main/allerton.html"><img src="image/7.jpg" width="355" height="222" /></a><p><b>Diversified Farm</b></br>From Allerton Farm to Natural Education Center</p></div>
@@ -43,7 +43,11 @@
     <div class="gallery-line">
        <div><a href="main/resiliency.html"><img src="image/10.jpg" width="355" height="222" /></a><p><b>Huo Shui Park</b></br>Landscape Resiliency Case Study</p></div>
         <div><a href="main/residential.html"><img src="image/11.jpg" width="355" height="222" /></a><p><b>The Big Residential</b></br>Planning and Design of Real Residential Projects in China</p></div>
-       <div><a href="main/pal.html"><img src="image/pal.jpg" width="355" height="222" /></a><p><b>P.A.L</b></br>Cooperation of P.A.L and Allerton</p></div>
+       <div><a href="main/casey.html"><img src="image/casey/1.jpg" width="355" height="222" /></a><p><b>Casey Tree Farm</b></br>Second Place Competetion Winner</p></div>
+    </div>
+
+    <div class="gallery-line">
+        <div><a href="main/bench.html"><img src="image/6.jpg" width="355" height="222" /></a><p><b>Inovative Landscape Product</b></br>Public Bench + Locker + Donation Box</p></div>
     </div>
 
   </div>
