@@ -4,6 +4,7 @@
   <title>Changchang Liu</title>
   <link rel="stylesheet" href="stylesheets/education.css">
   <link rel="stylesheet" href="stylesheets/dropdown.css">
+<link rel="shortcut icon" href="image/favicon.ico">
 </head>
 <body>
   <div id="header">
@@ -23,10 +24,24 @@
       </div>
       <div class="img-div">
         <div class="img-div-img">
+        <img src="image/asla_logo.jpg" height="92" width="71"/></div>
+	<div class="img-div-p">
+	<p><b>ASLA Awards of Merit - IL Chapter</b></br></br></br>
+	   </p></div>
+      </div>
+      <div class="img-div">
+        <div class="img-div-img">
         <a href="http://illinois.edu" target="_blank"><img src="image/UILogoCL2c.gif" height="92" width="71"/></a></div>
 	<div class="img-div-p">
-	<p><a href="http://www.landarch.illinois.edu/portfolio/newsletter/2013/portfolio-saski day awards.html" target="_blank"><b>Sasaki Award - Level G1</a></b></br>
+	<p><a href="http://www.landarch.illinois.edu/portfolio/newsletter/2013/portfolio-saski day awards.html" target="_blank"><b>Sasaki Award - Level G1</b></a></br>
            <a href="http://en.wikipedia.org/wiki/Hideo_Sasaki" target="_blank">Hideo Sasaki was an influential American landscape architect, who was affliated with University of Illinois at Urbana-Champagin...</a>
+	   </p></div>
+      </div>
+      <div class="img-div">
+        <div class="img-div-img">
+        <a href="http://illinois.edu" target="_blank"><img src="image/UILogoCL2c.gif" height="92" width="71"/></a></div>
+	<div class="img-div-p">
+	<p><b>Sasaki Award Nomination - Level Thesis</b></br></br></br>
 	   </p></div>
       </div>
       <div class="img-div">

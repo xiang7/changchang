@@ -4,6 +4,7 @@
   <title>Changchang Liu</title>
   <link rel="stylesheet" href="stylesheets/me.css">
   <link rel="stylesheet" href="stylesheets/dropdown.css">
+<link rel="shortcut icon" href="image/favicon.ico">
 </head>
 <body>
   <div id="header">
@@ -22,7 +23,7 @@
 	<p><a href="">Me</a></p>
       </div>
       <div id="img-div">
-        <img src="image/me.jpg" height="304" width="186"/>
+        <img src="image/me.jpg" height="304" width="458"/>
       </div>
       <div id="link-div">
          <ul>

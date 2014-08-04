@@ -4,6 +4,7 @@
   <title>Changchang Liu</title>
   <link rel="stylesheet" href="stylesheets/contact.css">
   <link rel="stylesheet" href="stylesheets/dropdown.css">
+<link rel="shortcut icon" href="image/favicon.ico">
 </head>
 <body>
   <div id="header">
@@ -26,14 +27,17 @@
         EMAIL
       </div>
       <div class="email_text">
-        <a href="mailto:cliu74@illinois.edu">cliu74@illinois.edu</a>
-        </br>
-        <a href="mailto:liuchangchang19920114@gmail.com">liuchangchang19920114@gmail.com</a>
+        <a href="mailto:changchang.liu115@gmail.com">changchang.liu115@gmail.com</a>
         </div>
       <div class="email">
         SOCIAL MEDIA
       </div>
       <div class="email_text"><a href="http://www.linkedin.com/pub/changchang-liu/65/472/5b2" target="_blank">LinkedIn</a></div>
+      <div class="email_text"><a href="http://issuu.com/changchangliu0" target="_blank">ISSUU</a></div>
+      <div class="email">
+        Address
+      </div>
+      <div class="email_text">3500 Granada Ave, Apt. 172, Santa Clara, CA, 95051</div>
     </div>
   </div>
 </body>
