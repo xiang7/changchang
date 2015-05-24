@@ -1,0 +1,41 @@
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Like Us?</title>
+  <link rel="stylesheet" href="stylesheets/likeus.css">
+  <link rel="stylesheet" href="stylesheets/dropdown.css">
+<link rel="shortcut icon" href="image/favicon.ico">
+</head>
+<body>
+  <div id="header">
+    <div id="header-container">
+        <a id="logo" href="index.html"><img src="image/logo.jpg" height="28" width="100"></a>
+      <ul>
+        <li><a class="headerb" href="about.shtml">ABOUT</a></li>
+        <li><a class="headerb" href="likeus.shtml">LIKE US?</a></li>
+      </ul>
+    </div>
+  </div>
+  <div id="content">
+    <div id="content-container">
+      <div id="me-div">
+	<p><a href="">Thank you for visiting catrait!</a></p>
+      </div>
+    <p>
+    Like Catrait? Support us by donating however much you'd like!
+    <script src="javascripts/paypal-button.min.js?merchant=lcc333@126.com"
+    data-button="donate"
+    data-name="Catrait"
+    data-amount="5.00"
+    async
+    ></script>
+    </p>
+
+    <p>
+    Your feedback is very important to us. Providing your feedback is another good way of supporting us! <a href="mailto:luojie.xiang@gmail.com">Provide Feedback Here.</a>
+    </p>
+
+    </div>
+  </div>
+</body>
+</html>
